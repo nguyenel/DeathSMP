@@ -1,0 +1,1608 @@
+[00:04:33] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:05:33] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[00:11:13] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:12:13] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[00:12:33] [Server thread/INFO]: Dreathlord issued server command: /gamemode survival
+[00:12:33] [Server thread/INFO]: [Dreathlord: Set own game mode to Survival Mode]
+[00:12:44] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #5746 to (1.2555983841192038,1.5142424740081344,-4.256988235217223).
+[00:12:44] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:12:44] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:12:44] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:12:44] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:12:44] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:12:44] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:12:44] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:12:44] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:12:44] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:12:44] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:12:44] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:17:53] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:18:53] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[00:24:33] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:25:33] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[00:29:53] [Server thread/INFO]: Dreathlord issued server command: /deop Dreathlord
+[00:29:53] [Server thread/INFO]: [Dreathlord: De-opped Dreathlord]
+[00:29:54] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6370 to (-0.1403806959293077,-0.42353948054906776,-4.041332406098341).
+[00:29:54] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:29:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:29:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:29:54] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:29:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:29:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:29:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:29:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:29:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:29:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:29:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:29:56] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6372 to (-0.45728156319516866,-0.6927518095695951,-4.010176847579498).
+[00:29:56] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:29:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:29:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:29:56] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:29:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:29:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:29:56] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:29:56] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:29:56] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:29:56] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:29:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:29:57] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6373 to (0.021484865222583725,-1.0566972926151894,-4.594575373648223).
+[00:29:57] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:29:57] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:29:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:29:57] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:29:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:29:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:29:57] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:29:57] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6374 to (0.0303877558627192,-0.11401585283618448,-4.209482754312803).
+[00:29:57] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:29:57] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:29:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:29:57] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:29:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:29:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:29:57] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:29:57] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:29:58] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6379 to (0.007559667100489827,-0.5047433426470118,-4.3048946601026135).
+[00:29:58] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:29:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:29:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:29:58] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:29:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:29:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:29:58] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:29:58] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:29:58] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:29:58] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:29:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:29:59] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6383 to (-0.1712641787019251,-0.06310005036144484,-4.40975689549992).
+[00:29:59] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:29:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:29:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:29:59] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:29:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:29:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:29:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:29:59] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6384 to (0.037010935532710273,-0.1564279972897118,-4.304810959877222).
+[00:29:59] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:29:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:29:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:29:59] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:29:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:29:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:29:59] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:29:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:30:00] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6385 to (-0.5784452101230231,-1.1903957875237428,-4.075706306182995).
+[00:30:00] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:30:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:30:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:30:00] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:30:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:30:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:30:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:30:00] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6390 to (-0.09350934446435653,-0.5171005884360804,-4.403822609391608).
+[00:30:00] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:30:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:30:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:30:00] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:30:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:30:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:30:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:30:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:30:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6394 to (-0.540504496422211,-0.5921482995564462,-4.317570225610693).
+[00:30:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:30:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:30:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:30:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:30:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:30:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:30:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:30:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6400 to (0.47127556282752825,-1.1372947334876864,-4.11326690878741).
+[00:30:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:30:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:30:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:30:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:30:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:30:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:30:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:30:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:30:02] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6401 to (0.43793008797607064,-0.150528902121427,-4.160487969071597).
+[00:30:02] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:30:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:30:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:30:02] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:30:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:30:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:30:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:30:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:30:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:30:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:30:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:30:20] [Server thread/INFO]: Opped Dreathlord
+[00:31:13] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:32:13] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[00:36:15] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6706 to (1.068748876151068,-0.5597272959510282,-4.073411146580608).
+[00:36:15] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:36:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:36:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:36:15] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:36:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:36:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:36:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:36:15] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6707 to (0.5852681010924238,-0.2399179501195543,-4.2444305004004095).
+[00:36:15] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:36:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:36:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:36:15] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:36:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:36:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:36:15] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:36:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:36:16] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6709 to (-0.29207745973020893,-1.5172600065082689,-4.41312292857819).
+[00:36:16] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:36:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:36:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:36:16] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:36:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:36:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:36:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:36:16] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6710 to (0.33642478336563486,-1.1586526739506924,-4.1395664277207525).
+[00:36:16] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:36:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:36:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:36:16] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:36:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:36:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:36:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:36:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:37:09] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6768 to (4.00863038766314,0.33588919453111227,0.3651901569887429).
+[00:37:09] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:37:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:37:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:37:09] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:37:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:37:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:37:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:37:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:37:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:37:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:37:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:37:10] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6769 to (4.130945454044625,0.023007596411818904,-0.050094551931914186).
+[00:37:10] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:37:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:37:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:37:10] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:37:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:37:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:37:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:37:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:37:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:37:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:37:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:37:17] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6779 to (4.14839329180992,-0.425613188459919,1.1686527349848161).
+[00:37:17] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:37:17] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:37:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:37:17] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:37:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:37:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:37:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:37:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:37:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:37:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:37:17] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:37:20] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6780 to (4.082295147887196,-0.30630964297080854,1.0445340558468224).
+[00:37:20] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:37:20] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:37:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:37:20] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:37:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:37:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:37:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:37:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:37:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:37:20] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:37:20] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:37:23] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6784 to (4.01864883550146,-0.19719398663794901,-0.756516356686344).
+[00:37:23] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:37:23] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:37:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:37:23] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:37:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:37:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:37:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:37:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:37:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:37:23] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:37:23] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:37:24] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #6787 to (4.148986818970629,-0.3879390933623231,-0.5501376171063205).
+[00:37:24] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:37:24] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:37:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:37:24] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:37:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:37:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:37:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:37:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:37:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:37:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:37:24] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:37:53] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:38:53] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+
+[00:42:12] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #7779 to (0.11923855375226175,-4.015987451856949,-0.13206585791887315).
+[00:42:12] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:42:12] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:42:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:42:12] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:42:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:42:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:42:12] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:42:12] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:42:12] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:42:12] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:42:12] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:42:29] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #7802 to (0.002965287244219565,-4.231164863292964,0.7727868108015145).
+[00:42:29] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:42:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:42:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:42:29] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:42:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:42:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:42:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:42:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:42:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:42:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:42:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:43:44] [Server thread/INFO]: Dreathlord issued server command: /summon Giant
+[00:43:44] [Server thread/INFO]: [Dreathlord: Object successfully summoned]
+[00:44:14] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8366 to (-1.0266189498115885,1.1343546425631958,-4.204418658587602).
+[00:44:14] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:44:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:44:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:44:14] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:44:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:44:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:44:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:44:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:44:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:44:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:44:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:44:16] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8375 to (-0.7176219468410487,0.8784577080379478,-4.230956990435875).
+[00:44:16] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:44:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:44:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:44:16] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:44:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:44:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:44:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:44:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:44:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:44:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:44:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:44:17] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8376 to (-0.4201370032643004,1.643559263492835,-4.53921835976958).
+[00:44:17] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:44:17] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:44:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:44:17] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:44:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:44:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:44:17] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:44:17] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8377 to (-1.1511860625361303,1.1310857692495624,-4.152402368251505).
+[00:44:17] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:44:17] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:44:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:44:17] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:44:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:44:17] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:44:17] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:44:17] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:44:29] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8417 to (-0.5698646283392007,1.3857708424120527,-4.075795969775805).
+[00:44:29] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:44:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:44:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:44:29] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:44:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:44:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:44:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:44:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:44:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:44:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:44:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:44:31] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8418 to (-0.5411065092799943,1.2134908446958352,-4.041027907509697).
+[00:44:31] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:44:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:44:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:44:31] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:44:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:44:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:44:31] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:44:31] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:44:31] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:44:31] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:44:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:44:33] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:44:47] [Server thread/ERROR]: Item entity 8439 has no item?!
+[00:44:47] [Server thread/ERROR]: Item entity 8439 has no item?!
+[00:44:48] [Server thread/ERROR]: Item entity 8440 has no item?!
+[00:44:48] [Server thread/ERROR]: Item entity 8440 has no item?!
+[00:45:01] [Server thread/INFO]: Dreathlord issued server command: /summon gian
+[00:45:01] [Server thread/WARN]: Skipping Entity with id gian
+[00:45:01] [Server thread/INFO]: [Dreathlord: Unable to summon object]
+[00:45:06] [Server thread/INFO]: Dreathlord issued server command: /summon Giant
+[00:45:06] [Server thread/INFO]: [Dreathlord: Object successfully summoned]
+[00:45:17] [Server thread/INFO]: Dreathlord issued server command: /summon Giant
+[00:45:17] [Server thread/INFO]: [Dreathlord: Object successfully summoned]
+[00:45:29] [Server thread/ERROR]: Item entity 8650 has no item?!
+[00:45:29] [Server thread/ERROR]: Item entity 8650 has no item?!
+[00:45:33] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 16 Entities![m
+
+[00:46:24] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8945 to (-0.48806604380761454,1.3088330340658403,-4.194224312255039).
+[00:46:24] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:46:24] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:46:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:46:24] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:46:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:46:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:46:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:46:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:46:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:46:24] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:46:24] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:46:26] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8967 to (-0.5286472378940018,0.9177636342362148,-4.10238117504476).
+[00:46:26] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:46:26] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:46:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:46:26] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:46:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:46:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:46:26] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:46:26] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:46:26] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:46:26] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:46:26] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:46:29] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #8973 to (-1.2127387154714668,1.4030353590223879,-4.174740008175824).
+[00:46:29] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:46:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:46:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:46:29] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:46:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:46:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:46:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:46:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:46:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:46:29] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:46:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:46:40] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #9007 to (0.47241581645037983,1.1403074021227397,-4.009364367299464).
+[00:46:40] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:46:40] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:46:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:46:40] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:46:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:46:40] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:46:40] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:46:40] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:46:40] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:46:40] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:46:40] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:46:46] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #9020 to (0.4570290012823247,1.500299251433444,-4.067928913664425).
+[00:46:46] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:46:46] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:46:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:46:46] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:46:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:46:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:46:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:46:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:46:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:46:46] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:46:46] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:46:55] [Server thread/INFO]: Dreathlord issued server command: /summon Ghast
+[00:46:55] [Server thread/INFO]: [Dreathlord: Object successfully summoned]
+[00:48:31] [Server thread/ERROR]: Item entity 9784 has no item?!
+[00:48:31] [Server thread/ERROR]: Item entity 9784 has no item?!
+[00:49:27] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #10323 to (-1.0119792332696986,-0.28292384511136925,4.115651507995145).
+[00:49:27] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:49:27] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:49:27] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:49:27] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:49:27] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:49:27] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:49:27] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:49:27] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:49:27] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:49:27] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:49:27] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:49:45] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #10392 to (-1.067496188284995,-4.02264086900936,0.4899407542228974).
+[00:49:45] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:49:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:49:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:49:45] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:49:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:49:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:49:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:49:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:49:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:49:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:49:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:49:47] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #10394 to (-0.9812357320905449,-4.046609198722735,0.2541780264873753).
+[00:49:47] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:49:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:49:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:49:47] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:49:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:49:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:49:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:49:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:49:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:49:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:49:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:50:04] [Server thread/ERROR]: Item entity 10620 has no item?!
+[00:50:04] [Server thread/ERROR]: Item entity 10620 has no item?!
+[00:50:34] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #10749 to (-1.2942191228465694,-0.5308448327315008,4.120716714973548).
+[00:50:34] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:50:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:50:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:50:34] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:50:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:50:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:50:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:50:34] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #10751 to (-0.8955963712061137,-0.6072589097541878,4.027074649829162).
+[00:50:34] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:50:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:50:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:50:34] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:50:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:50:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:50:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:50:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:50:36] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #10755 to (-0.2610872431082529,-0.08586373740081452,4.118783807618833).
+[00:50:36] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:50:36] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:50:36] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:50:36] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:50:36] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:50:36] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:50:36] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:50:36] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #10756 to (-0.10429400679053777,-0.12285904303107789,4.104616500707826).
+[00:50:36] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[00:50:36] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[00:50:36] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[00:50:36] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[00:50:36] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[00:50:36] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[00:50:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[00:50:36] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[00:51:14] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:52:14] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 8 Entities![m
+
+[00:57:54] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[00:58:54] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[01:04:34] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[01:05:34] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[01:10:54] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13491 to (0.22889014650832296,-0.5508840638950969,-4.0999820723845595).
+[01:10:54] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:10:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:10:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:10:54] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:10:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:10:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:10:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:10:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:10:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:10:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:10:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:00] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13510 to (-4.419401550282765,0.3238213337196627,0.009871766449530833).
+[01:11:00] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:00] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:00] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13513 to (-4.1379428690383016,-0.12661098595515688,0.10631856378824439).
+[01:11:00] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:00] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:00] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13517 to (-4.119113834710966,-0.0826972218040789,0.02012418939272286).
+[01:11:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13518 to (-4.071077100482321,-0.038862256874056686,-0.0396939038634427).
+[01:11:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13519 to (-4.2011423497934395,-0.056408330914728036,-0.2184901509453621).
+[01:11:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13522 to (-4.282232266429312,-0.13784819491600034,0.032552826033697795).
+[01:11:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13523 to (-4.02933602848431,-0.05094231212642271,0.145645117326677).
+[01:11:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13524 to (-4.081609884551939,0.031024594554316973,0.20422562680525705).
+[01:11:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:01] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13525 to (-4.061890285747237,0.1313747824585621,0.2755271239054387).
+[01:11:01] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:01] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:01] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:02] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13526 to (-4.093059234388246,-0.1528083355368636,-0.32572294108468003).
+[01:11:02] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:02] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:02] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13528 to (-4.068976142228237,0.09083494973378682,-0.034377922689024586).
+[01:11:02] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:02] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:02] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13529 to (-4.073039703287565,-0.08247851942002823,-0.12467420330725101).
+[01:11:02] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:02] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:02] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13531 to (-4.141090875892517,0.2364284254860876,-0.312196480082934).
+[01:11:02] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:02] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:02] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13534 to (-4.005203706032699,0.02015243321212231,-0.1180208297728969).
+[01:11:02] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:02] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:02] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13535 to (-4.156613107980512,-0.3624441467385153,-0.04944918214997555).
+[01:11:02] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:02] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:09] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13539 to (-4.3201894457896985,0.30179628388071084,0.17980426745601616).
+[01:11:09] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:09] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:10] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13540 to (-4.120361418552812,-0.005122475661474807,0.38038286339334093).
+[01:11:10] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:10] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:10] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:11:14] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[01:11:18] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #13550 to (-4.052578636823156,0.410606286079282,0.3722286033567961).
+[01:11:18] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:11:18] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:11:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:11:18] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:11:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:11:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:11:18] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:11:18] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:11:18] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:11:18] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:11:18] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:12:13] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 9 Entities![m
+
+[01:12:16] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #14954 to (-4.220628823207361,-0.970746372171259,0.31051429345340464).
+[01:12:16] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:12:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:12:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:12:16] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:12:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:12:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:12:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:12:16] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #14955 to (-4.266739962935792,-0.7764848353373663,0.2839091494841017).
+[01:12:16] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:12:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:12:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:12:16] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:12:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:12:16] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:12:16] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:12:16] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:12:33] [Server thread/ERROR]: Item entity 15454 has no item?!
+[01:12:33] [Server thread/ERROR]: Item entity 15454 has no item?!
+[01:12:34] [Server thread/ERROR]: Item entity 15455 has no item?!
+[01:12:34] [Server thread/ERROR]: Item entity 15455 has no item?!
+[01:13:04] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #15559 to (-4.003868476419772,-0.3180003458817384,0.23687042030816866).
+[01:13:04] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:13:04] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:13:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:13:04] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:13:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:13:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:13:04] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:13:04] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:13:04] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:13:04] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:13:04] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01:13:48] [Server thread/INFO]: Dreathlord issued server command: /home home
+[01:13:57] [Server thread/INFO]: Dreathlord issued server command: /home home
+[01:17:54] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[01:18:54] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+
+[01:24:34] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[01:25:34] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[01:31:14] [Server thread/INFO]: [0;33;22m[0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in one minute![m
+
+[01:32:14] [Server thread/INFO]: [0;33;22m[0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+
+[01:32:52] [Server thread/WARN]: Dreathlord moved wrongly!
+[01:32:52] [Server thread/WARN]: Dreathlord moved wrongly!
+[01:33:06] [Server thread/WARN]: Excessive velocity set detected: tried to set velocity of entity #16292 to (-0.3196642421446977,-0.029876681918522607,-4.00762822281724).
+[01:33:06] [Server thread/WARN]: java.lang.Exception: Stack trace
+
+[01:33:06] [Server thread/WARN]: 	at java.base/java.lang.Thread.dumpStack(Thread.java:2209)
+
+[01:33:06] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.entity.CraftEntity.setVelocity(CraftEntity.java:213)
+
+[01:33:06] [Server thread/WARN]: 	at com.shampaggon.crackshot.CSDirector$2.run(CSDirector.java:1718)
+
+[01:33:06] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[01:33:06] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[01:33:06] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[01:33:06] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[01:33:06] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[01:33:06] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[01:33:06] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+

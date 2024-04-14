@@ -1,0 +1,114 @@
+[21:57:30] [main/INFO]: Using mbed TLS based native cipher.
+[21:57:30] [main/INFO]: Using zlib based native compressor.
+[21:57:30] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[21:57:31] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[21:57:31] [main/INFO]: Epoll is working, utilising it!
+[21:57:32] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[21:57:32] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[21:57:32] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[21:57:32] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[21:57:32] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[21:57:32] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[21:57:34] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:34] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:34] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:34] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:34] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:34] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:34] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[21:57:34] [main/WARN]: :>  
+[21:57:34] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[21:57:34] [main/WARN]: :>  
+[21:57:34] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[21:57:34] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[21:57:34] [main/WARN]: :>  apart from the versions listed below:
+[21:57:34] [main/WARN]: :>  
+[21:57:34] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+[21:57:34] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+[21:57:34] [main/WARN]: :>  - FlameCord: 1.1.1
+[21:57:34] [main/WARN]: :>  
+[21:57:34] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[21:57:34] [main/WARN]: :>  
+[21:57:34] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[21:57:34] [main/WARN]: :>  
+[21:57:34] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[21:57:37] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[21:57:43] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[21:57:43] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[21:57:43] [main/WARN]: Forced host server pvp is not defined
+[21:57:43] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:43] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:43] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:43] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:43] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:43] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[21:57:43] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[21:57:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[21:57:44] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/DeathSMP/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[21:57:44] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[21:57:44] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[21:57:44] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[21:58:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58480]: Connected via websocket
+[21:58:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58480]: Origin header is https://eaglercraftx1-8.github.io
+[21:58:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58480]: Logged in as 'Dreathlord'
+[21:58:13] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58480|Dreathlord] -> UpstreamBridge has connected
+[21:58:13] [Netty Worker IO Thread #1/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/[0:0:0:0:0:0:0:1%0]:58480|Dreathlord] <-> InitialHandler) took 254ms to process!
+[21:58:13] [Netty Worker IO Thread #1/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/[0:0:0:0:0:0:0:1%0]:58480|Dreathlord] <-> InitialHandler) took 256ms to process!
+[21:58:13] [Netty Worker IO Thread #1/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:58480] <-> ServerConnector [lobby] has connected
+[22:05:08] [Netty Worker IO Thread #1/INFO]: [Dreathlord] disconnected with: Server closed
+[22:05:08] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58480|Dreathlord] -> UpstreamBridge has disconnected
+[22:05:08] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58480|Dreathlord] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:05:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44574]: Connected via websocket
+[22:05:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44574]: Origin header is https://eaglercraftx1-8.github.io
+[22:05:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44574]: Logged in as 'Dreathlord'
+[22:05:38] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44574|Dreathlord] -> UpstreamBridge has connected
+[22:05:38] [Netty Worker IO Thread #2/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:44574] <-> ServerConnector [lobby] has connected
+[22:07:52] [Netty Worker IO Thread #2/INFO]: [Dreathlord] disconnected with: Server closed
+[22:07:52] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44574|Dreathlord] -> UpstreamBridge has disconnected
+[22:07:52] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44574|Dreathlord] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:08:05] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36912]: Connected via websocket
+[22:08:05] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36912]: Origin header is https://eaglercraftx1-8.github.io
+[22:08:05] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36912]: Logged in as 'Dreathlord'
+[22:08:05] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36912|Dreathlord] -> UpstreamBridge has connected
+[22:08:05] [Netty Worker IO Thread #3/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:36912] <-> ServerConnector [lobby] has connected
+[22:12:31] [Netty Worker IO Thread #3/INFO]: [Dreathlord] disconnected with: Server closed
+[22:12:31] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36912|Dreathlord] -> UpstreamBridge has disconnected
+[22:12:31] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36912|Dreathlord] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:12:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41072]: Connected via websocket
+[22:12:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41072]: Origin header is https://eaglercraftx1-8.github.io
+[22:12:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41072]: Logged in as 'Dreathlord'
+[22:12:53] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41072|Dreathlord] -> UpstreamBridge has connected
+[22:12:53] [Netty Worker IO Thread #0/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:41072] <-> ServerConnector [lobby] has connected
+[22:14:21] [Netty Worker IO Thread #0/INFO]: [Dreathlord] disconnected with: Server closed
+[22:14:21] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41072|Dreathlord] -> UpstreamBridge has disconnected
+[22:14:21] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41072|Dreathlord] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:14:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41222]: Connected via websocket
+[22:14:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41222]: Origin header is https://eaglercraftx1-8.github.io
+[22:14:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41222]: Logged in as 'Dreathlord'
+[22:14:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41222|Dreathlord] -> UpstreamBridge has connected
+[22:14:45] [Netty Worker IO Thread #1/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:41222] <-> ServerConnector [lobby] has connected
+[22:14:53] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41222|Dreathlord] -> UpstreamBridge has disconnected
+[22:14:53] [Netty Worker IO Thread #1/INFO]: [Dreathlord] disconnected with: Proxy lost connection to server.
+[22:14:53] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41222|Dreathlord] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:40:38] [Netty Worker IO Thread #2/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/DeathSMP/bungee/server-icon.png
+[22:40:41] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60360]: Connected via websocket
+[22:40:41] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60360]: Origin header is https://eaglercraftx1-8.github.io
+[22:40:41] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60360]: Logged in as 'Dreathlord'
+[22:40:41] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60360|Dreathlord] -> UpstreamBridge has connected
+[22:40:41] [Netty Worker IO Thread #3/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:60360] <-> ServerConnector [lobby] has connected
+[22:57:37] [Netty Worker IO Thread #3/INFO]: [Dreathlord] disconnected with: Server closed
+[22:57:37] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60360|Dreathlord] -> UpstreamBridge has disconnected
+[22:57:37] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60360|Dreathlord] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:58:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49268]: Connected via websocket
+[22:58:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49268]: Origin header is https://eaglercraftx1-8.github.io
+[22:58:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49268]: Logged in as 'Dreathlord'
+[22:58:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49268|Dreathlord] -> UpstreamBridge has connected
+[22:58:02] [Netty Worker IO Thread #0/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:49268] <-> ServerConnector [lobby] has connected
+[23:29:41] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49268|Dreathlord] -> UpstreamBridge has disconnected
+[23:29:41] [Netty Worker IO Thread #0/INFO]: [Dreathlord] disconnected with: Proxy lost connection to server.
+[23:29:41] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49268|Dreathlord] <-> DownstreamBridge <-> [lobby] has disconnected
+[23:38:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41402]: Connected via websocket
+[23:38:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41402]: Origin header is https://eaglercraftx1-8.github.io
+[23:38:37] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41402]: Logged in as 'Dreathlord'
+[23:38:37] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41402|Dreathlord] -> UpstreamBridge has connected
+[23:38:37] [Netty Worker IO Thread #2/INFO]: [Dreathlord|/[0:0:0:0:0:0:0:1%0]:41402] <-> ServerConnector [lobby] has connected

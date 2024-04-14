@@ -1,0 +1,2 @@
+Time:[AMOUNT OF TIME SONG PLAYS FOR TIMES]
+Songname:[Song Name (E.g. pop)]

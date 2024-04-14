@@ -1,0 +1,5 @@
+Time:43.467
+Songname:WindMill
+
+##Note: "Songname" is not needed for all sounds files, such as in this case.
+## Because the name of the file is the same as the name of the sound, you do not need "Songname:". 

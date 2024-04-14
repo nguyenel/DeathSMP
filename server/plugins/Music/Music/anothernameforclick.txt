@@ -1,0 +1,5 @@
+Time:1
+Songname:click
+
+##Note: "Songname" is not needed for all sounds files. In this case however, the Songname is different than
+##the file's name. In cases such as this one, you would need "Songname:" in order to be able to play the sound. 

@@ -1,0 +1,3 @@
+Time:400
+Songname:t
+[&&END&&]

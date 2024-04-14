@@ -1,0 +1,24 @@
+storage: sqlite
+mysql:
+  hostname: localhost
+  username: Dreathlord
+  password: Monkey
+  database: chestmaster
+use_uuid: true
+chest_size: 45
+migrated: true
+sql_version: 4
+disable_dupe_kick: false
+block_creative_access: false
+command_name: chest
+networking:
+  use_metrics: true
+  use_autoupdate: true
+lang:
+  NO_PERMISSION_CHEST_NUMBER: §cYou cant have this many chests!
+  NO_PERMISSION: §cAccess Denied
+  INVALID_CHEST_NUMBER: §6That chest number is invalid
+  ADM_CHEST_USAGE: §cUse /admchest <player> <chest_number>
+  CHEST_NAME: §6ChestMaster
+  PERMISSION_CREATIVE: §cYou cant use /chest while in creative gamemode
+  NO_PERMISSION_CREATIVE: You cant use /chest while in creative gamemode
